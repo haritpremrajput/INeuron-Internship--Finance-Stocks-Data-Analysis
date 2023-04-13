@@ -11,7 +11,7 @@ An Internship In <b>'INeuron.ai'</b> where i performed analysis on finance data 
 - [Technologies_Used](#Technologies_Used)
 - [Data_Source](#Data_Source)
 - [File_Description](#File_Description)
-- [Data_Preparation](#Data_Preparation)
+- [Data_Preparation](#🖥️Data_Preparation)
 - [Data_Analysis](#Data_Analysis)
 - [Data_Visualization](#Data_Visualization)
 - [Results](#Results)
