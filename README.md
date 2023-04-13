@@ -11,12 +11,12 @@ An Internship In <b>'INeuron.ai'</b> where i performed analysis on finance data 
 - [💻 Technologies_Used](#Technologies_Used)
 - [🖥️ Data_Source](#Data_Source)
 - [📄 File_Description](#File_Description)
-- [🧹 Data_Preparation](#🖥️Data_Preparation)
+- [🧹 Data_Preparation](#Data_Preparation)
 - [❓ Data_Analysis](#Data_Analysis)
 - [📊 Data_Visualization](#Data_Visualization)
 - [📈 Results](#Results)
 - [✅ Conclusion](#Conclusion)
-- [📃 Documentation](#Documantation)
+- [📃 Documentation](#Documentation)
 - [👥 Acknowledgements](#Acknowledgements)
 - [📩 Feedback](#Feedback)
 
@@ -123,4 +123,4 @@ I would like to acknowledge the support provided by INeuron.ai in providing the 
 
 ## Feedback
 
-If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/harit-prem-rajpu/) or mail me [Gmail](mail:nitinharit@gmail.com)
+If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/harit-prem-rajpu/) or mail me [Gmail](mailto:nitinharit@gmail.com)
