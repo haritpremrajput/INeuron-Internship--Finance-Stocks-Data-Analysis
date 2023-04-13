@@ -38,7 +38,7 @@ It aims to analyze stock market data to provide insights into the financial perf
 Link to the dataset- https://drive.google.com/file/d/18cdHfJreXj2DucuyMmP0HW5H2lccGllg/view
 
 
-## File Description
+## File_Description
 
 Sample file name- <emp> constituents-financials.csv </emp><br>
 Number of Columns: <emp> 14 </emp><br>
@@ -63,7 +63,7 @@ The Dataset contains finance data of top 500 based on the availability of market
 #### SEC Filings::&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;: &emsp;&emsp;&emsp;&emsp;&emsp;Financial statement or other formal document submitted to the SEC
 
 
-## Data Preparation
+## Data_Preparation
 
 - Remove irrelevant data
 - Deduplicate your data
@@ -73,7 +73,7 @@ The Dataset contains finance data of top 500 based on the availability of market
 - Validate your data
 
 
-## Data Analysis
+## Data_Analysis
 
 - Identify the right questions
 - Break down the data into segments
@@ -81,7 +81,7 @@ The Dataset contains finance data of top 500 based on the availability of market
 - Supplement with qualitative data
 
 
-## Data Visualization
+## Data_Visualization
 
 - Identified the variables
 - The appropriate visualization technique based on the variables to be visualized and the research questions is chosen. This involves using scatter plots, bar charts, line charts, or tree map.
@@ -90,7 +90,7 @@ The Dataset contains finance data of top 500 based on the availability of market
 - Finally, the visualization is interpreted to draw insights and conclusions from the data.
 
 
-## Result (Story/Dashboards)
+## Results
 
 <img src="https://github.com/haritpremrajput/INeuron-Internship--Finance-Stocks-Data-Analysis/blob/main/Dashboards_Story.gif?raw=true" >
 
