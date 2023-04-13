@@ -16,28 +16,29 @@ An Internship In <b>'INeuron.ai'</b> where i performed analysis on finance data 
 - [Data_Visualization](#Data_Visualization)
 - [Results](#Results)
 - [Conclusion](#Conclusion)
+- [Documentation](#Documantation)
 - [Acknowledgements](#Acknowledgements)
 - [Feedback](#Feedback)
 
 
-##📑 Project_Description
+## 📑 Project_Description
 
 This project can be used by investors, financial analysts, and traders to make informed decisions about buying, selling, or holding stocks.
 It aims to analyze stock market data to provide insights into the financial performance of companies and investment opportunities. The results of this analysis will be used to make informed investment decisions and to develop strategies for maximizing returns.
 
 
-##🧑‍💻 Technologies_Used
+## 🧑‍💻 Technologies_Used
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a>
 &emsp; &emsp;          <img src="https://github.com/haritpremrajput/haritpremrajput/blob/main/tableau-logo-tableau-software-700x263.jpg" width="270" height="120"/>
 
 
-##🖥️ Data_Source
+## 🖥️ Data_Source
 
 Link to the dataset- https://drive.google.com/file/d/18cdHfJreXj2DucuyMmP0HW5H2lccGllg/view
 
 
-##📄 File Description
+## 📄 File Description
 
 Sample file name- <emp> constituents-financials.csv </emp><br>
 Number of Columns: <emp> 14 </emp><br>
@@ -62,7 +63,7 @@ The Dataset contains finance data of top 500 based on the availability of market
 #### SEC Filings::&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;: &emsp;&emsp;&emsp;&emsp;&emsp;Financial statement or other formal document submitted to the SEC
 
 
-##🧹 Data Preparation
+## 🧹 Data Preparation
 
 - Remove irrelevant data
 - Deduplicate your data
@@ -72,7 +73,7 @@ The Dataset contains finance data of top 500 based on the availability of market
 - Validate your data
 
 
-##❓ Data Analysis
+## ❓ Data Analysis
 
 - Identify the right questions
 - Break down the data into segments
@@ -80,7 +81,7 @@ The Dataset contains finance data of top 500 based on the availability of market
 - Supplement with qualitative data
 
 
-##📊 Data Visualization
+## 📊 Data Visualization
 
 - Identified the variables
 - The appropriate visualization technique based on the variables to be visualized and the research questions is chosen. This involves using scatter plots, bar charts, line charts, or tree map.
@@ -89,11 +90,11 @@ The Dataset contains finance data of top 500 based on the availability of market
 - Finally, the visualization is interpreted to draw insights and conclusions from the data.
 
 
-##📈 Result (Story/Dashboards)
+## 📈 Result (Story/Dashboards)
 
 <img src="https://github.com/haritpremrajput/INeuron-Internship--Finance-Stocks-Data-Analysis/blob/main/Dashboards_Story.gif?raw=true" >
 
-##✅ Conclusion
+## ✅ Conclusion
 
 - Dashboard shows which business or companies should be preferred and which are risky
 - ‘Energy’ and ‘Information Technology’ sectors have more P/E ratio so better
@@ -103,7 +104,19 @@ The Dataset contains finance data of top 500 based on the availability of market
 - ‘Facebook’ and Google’s parent ‘Alphabet Inc’ generates maximum revenue of all
 
 
-##👥 Acknowledgements
+## 📃 Documentation
+
+[High Level Document](https://github.com/haritpremrajput/INeuron-Internship--Finance-Stocks-Data-Analysis/blob/main/HLD%20document%20.pdf)
+
+[Low Level Document](https://github.com/haritpremrajput/INeuron-Internship--Finance-Stocks-Data-Analysis/blob/main/LLD%20document.pdf)
+
+[Architecture](https://github.com/haritpremrajput/INeuron-Internship--Finance-Stocks-Data-Analysis/blob/main/Architecture%20Design.pdf)
+
+[WireFrame](https://github.com/haritpremrajput/INeuron-Internship--Finance-Stocks-Data-Analysis/blob/main/Wireframe%20Document.pdf)
+
+[Detailed_Report](https://github.com/haritpremrajput/INeuron-Internship--Finance-Stocks-Data-Analysis/blob/main/Detail%20project%20report%20FA.pptx)
+
+## 👥 Acknowledgements
 
 I would like to acknowledge the support provided by INeuron.ai in providing the data used in this project. Without their cooperation and assistance, this project would not have been possible.
 
