@@ -1,7 +1,7 @@
 
 # INeuron Internship- Finance(Stocks) Data Analysis
 
-An Internship In <b>'INeuron.ai'</b> where i performed analysis on finance data to analyze the stocks data of <emp>'Top 500 companies'</emp> of India.<br>
+An Internship In <b>'INeuron.ai'</b> where i performed analysis on finance data to analyze the stocks dataset of <emp>'Top 500 companies'</emp> of India.<br>
 
 
 ## Table of contents
