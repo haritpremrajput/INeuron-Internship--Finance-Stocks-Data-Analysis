@@ -8,7 +8,7 @@ An Internship In <b>'INeuron.ai'</b> where i performed analysis on finance data 
 
 - [Project Description](#Project Description)
 - [Technologies_Used](#Technologies_Used)
-- [Data Sources](#Data)
+- [Data Sources](#Data Sources)
 - [File Description](#File Description)
 - [Data Preparation](#Data Preparation)
 - [Data Analysis](#Data Analysis)
@@ -18,7 +18,7 @@ An Internship In <b>'INeuron.ai'</b> where i performed analysis on finance data 
 - [Acknowledgements](#Acknowledgements)
 
 
-## <a name="Project Description"></a> 
+## Project Description
 
 This project can be used by investors, financial analysts, and traders to make informed decisions about buying, selling, or holding stocks.
 It aims to analyze stock market data to provide insights into the financial performance of companies and investment opportunities. The results of this analysis will be used to make informed investment decisions and to develop strategies for maximizing returns.
@@ -30,7 +30,7 @@ It aims to analyze stock market data to provide insights into the financial perf
 &emsp; &emsp;          <img src="https://github.com/haritpremrajput/haritpremrajput/blob/main/tableau-logo-tableau-software-700x263.jpg" width="270" height="120"/>
 
 
-## Data
+## Data Sources
 
 Link to the dataset- https://drive.google.com/file/d/18cdHfJreXj2DucuyMmP0HW5H2lccGllg/view
 
