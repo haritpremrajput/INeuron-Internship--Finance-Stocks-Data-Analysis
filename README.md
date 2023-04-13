@@ -7,7 +7,7 @@ An Internship In <b>'INeuron.ai'</b> where i performed analysis on finance data 
 
 ## Table of contents
 
-- [Project_Description](# 📑 Project_Description)
+- [Project_Description](#📑 Project_Description)
 - [Technologies_Used](#Technologies_Used)
 - [Data_Source](#Data_Source)
 - [File_Description](#File_Description)
