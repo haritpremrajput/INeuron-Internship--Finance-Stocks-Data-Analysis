@@ -7,7 +7,7 @@ An Internship In <b>'INeuron.ai'</b> where i performed analysis on finance data 
 
 ## Table of contents
 
-- [Project_Description](#Project_Description)
+- [Project_Description](# 📑 Project_Description)
 - [Technologies_Used](#Technologies_Used)
 - [Data_Source](#Data_Source)
 - [File_Description](#File_Description)
@@ -123,4 +123,4 @@ I would like to acknowledge the support provided by INeuron.ai in providing the 
 
 ## 📩 Feedback
 
-If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/harit-prem-rajpu/)
+If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/harit-prem-rajpu/) or mail me [Gmail](mail:nitinharit@gmail.com)
