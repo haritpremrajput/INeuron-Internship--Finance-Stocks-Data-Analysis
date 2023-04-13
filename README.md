@@ -37,11 +37,11 @@ Link to the dataset- https://drive.google.com/file/d/18cdHfJreXj2DucuyMmP0HW5H2l
 
 ## File Description
 
-The Dataset contains finance data of top 500 based on the availability of market capitalisation, stock price, EBITDA, 52 week Low, 52 week High etc.
-
 Sample file name- <emp> constituents-financials.csv </emp><br>
 Number of Columns: <emp> 14 </emp><br>
 Number of Rows: <emp> 505 </emp><br>
+
+The Dataset contains finance data of top 500 based on the availability of market capitalisation, stock price, EBITDA, 52 week Low, 52 week High etc.
 
 ### Column name      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;         Description
 #### Symbol &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;: &emsp;&emsp;&emsp;&emsp;&emsp;Company's Name short Acronym
